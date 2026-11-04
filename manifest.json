@@ -1,7 +1,7 @@
 {
   "format": "medexam-delta-manifest-v1",
-  "version": "v-20261104142140-83e85f",
-  "builtAt": "2026-11-04T14:21:40.509Z",
+  "version": "v-20261104184429-c3f2c8",
+  "builtAt": "2026-11-04T18:44:29.669Z",
   "keyId": "adb82a371e2c4bf0",
   "keyRotationEpoch": 0,
   "saltPrefix": "medexam-salt-ca3efd65f69567ea",
@@ -515,10 +515,10 @@
     },
     "53": {
       "bucket": 53,
-      "file": "blobs/bucket-53-bf27bf77bb65012e.bin",
-      "contentId": "bf27bf77bb65012e10dc1bdfd86c6cb4a986caa1c95dc187b6f810f43f865083",
-      "sha256": "bdea46a8558f6bdcb9f7882903577fe14f764b9c4bcfdbf0c36a0caa8e7811c1",
-      "size": 12471,
+      "file": "blobs/bucket-53-7ef1cb952130a830.bin",
+      "contentId": "7ef1cb952130a83020c3c8fad9a04e8fb1bc8fa2ace8d83e8ba7d7b01269b455",
+      "sha256": "817f2a4e59f2b0d1ad96add2bff5611992721f63a47285deac3f52daa2bd677a",
+      "size": 12463,
       "count": 15,
       "imageHashes": []
     },
@@ -723,21 +723,21 @@
       "size": 4865
     },
     "questionSets": {
-      "file": "blobs/meta-questionSets-9500c9296db9d695.bin",
-      "contentId": "9500c9296db9d69585944881f1a76bbcd14f8ed728022bbf6370e7fcc63c487b",
-      "sha256": "9b63b73ae6bb9a1abb9468d6fc07a38eb224f75f29eb70677c40a1c17b621af2",
+      "file": "blobs/meta-questionSets-074f3df8c40bda01.bin",
+      "contentId": "074f3df8c40bda017fb5e13bdc85256c03ace332a22fe9ac3d5ded4cd14727b5",
+      "sha256": "f532eaa98030cac0e536ad13d6fe1b662db80deb66b6c38646ace6cdf1ee9822",
       "size": 4575
     },
     "branding": {
-      "file": "blobs/meta-branding-e65ce620fc88b8f1.bin",
-      "contentId": "e65ce620fc88b8f1984d80100e83d75d0aba7abc2953af6aa192d78e9e853ca3",
-      "sha256": "ae5ec3ddfc897649a27a594869ca2f8d3e488af738ed2c02c005b1d8a669f368",
-      "size": 342
+      "file": "blobs/meta-branding-9e2a8f6f311c689c.bin",
+      "contentId": "9e2a8f6f311c689c306592a627372611cf4c724e1dcdd275269232898138a185",
+      "sha256": "b0564775b04f171bde6ffe10a7b233d56ba7f469c3fb19e113c0639d13827727",
+      "size": 300
     },
     "access": {
       "file": "access.json",
       "sha256": "72ed6e820e007ea7932c309025cc1070377dfe58698f8e48c888ee48e79e443e",
-      "size": 2431,
+      "size": 2435,
       "loginsCount": 8
     }
   }
