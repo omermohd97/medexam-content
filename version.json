@@ -1,26 +1,26 @@
 {
-  "version": "v-20261104211609-4e48ea",
-  "builtAt": "2026-11-04T21:16:09.115Z",
-  "manifestSha256": "3137ea2caad1a8726bd236b8e20df581238cb9ee3774e5a20bd8614b2326d7b5",
+  "version": "v-20261105182236-c00315",
+  "builtAt": "2026-11-05T18:22:36.229Z",
+  "manifestSha256": "eb25d9f87ed753d3da5c05fb64f9c32a3293f85688a1ebfb1e61463799992b8a",
   "accessSha256": "dfd1ad0c9b92af9594c61bec5b7c0a9b26b9e58fc4f24b1e3150aac20f9f5b1e",
   "keyId": "adb82a371e2c4bf0",
   "totalQuestions": 570,
   "minAppVersion": "1.0.0",
   "contacts": {
     "name": {
-      "value": "",
+      "value": "Dr Omer Mohammed Elsoghyer ",
       "enabled": false
     },
     "jobTitle": {
-      "value": "",
-      "enabled": false
+      "value": "Pediatric Fellow Trainee - QGH",
+      "enabled": true
     },
     "whatsapp": {
-      "value": "+44 7700 900077",
+      "value": "00201026366307",
       "enabled": true
     },
     "telegram": {
-      "value": "https://www.usmle.org",
+      "value": "t.me/omermohd97",
       "enabled": true
     },
     "facebook": {
@@ -32,15 +32,15 @@
       "enabled": false
     },
     "email": {
-      "value": "academic-support@medexam.org",
-      "enabled": true
+      "value": "",
+      "enabled": false
     },
     "phone": {
-      "value": "+44 20 7946 0192",
+      "value": "",
       "enabled": false
     },
     "website": {
-      "value": "https://www.rcpch.ac.uk/resources/examinations",
+      "value": "",
       "enabled": false
     }
   }

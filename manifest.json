@@ -1,7 +1,7 @@
 {
   "format": "medexam-delta-manifest-v1",
-  "version": "v-20261104211609-4e48ea",
-  "builtAt": "2026-11-04T21:16:09.115Z",
+  "version": "v-20261105182236-c00315",
+  "builtAt": "2026-11-05T18:22:36.229Z",
   "keyId": "adb82a371e2c4bf0",
   "keyRotationEpoch": 0,
   "saltPrefix": "medexam-salt-ca3efd65f69567ea",
@@ -515,10 +515,10 @@
     },
     "53": {
       "bucket": 53,
-      "file": "blobs/bucket-53-7ef1cb952130a830.bin",
-      "contentId": "7ef1cb952130a83020c3c8fad9a04e8fb1bc8fa2ace8d83e8ba7d7b01269b455",
-      "sha256": "817f2a4e59f2b0d1ad96add2bff5611992721f63a47285deac3f52daa2bd677a",
-      "size": 12463,
+      "file": "blobs/bucket-53-bf27bf77bb65012e.bin",
+      "contentId": "bf27bf77bb65012e10dc1bdfd86c6cb4a986caa1c95dc187b6f810f43f865083",
+      "sha256": "6514b21c0d085ca40c17bf9a757beccd865f4c6c33c5b5797abbd056dfda567d",
+      "size": 12471,
       "count": 15,
       "imageHashes": []
     },
@@ -609,10 +609,10 @@
     },
     "63": {
       "bucket": 63,
-      "file": "blobs/bucket-63-aed983910b23082b.bin",
-      "contentId": "aed983910b23082bd7a07cedaa0dd3e75c2dcd007f06cc832fc3adc2a0f864ef",
-      "sha256": "fe3e4c1fc3b40f5fd3578ed89805888e40bf7df41e629a120a4bd0490e74d898",
-      "size": 8397,
+      "file": "blobs/bucket-63-20bc91a2aec8496f.bin",
+      "contentId": "20bc91a2aec8496f1b45ea5b5304f1966cc4e09ea59a563b031e37a4e665c199",
+      "sha256": "323f50522571dc52b317272968888e8fd1596cf3c475e118a194b52c5c50c3ce",
+      "size": 8400,
       "count": 6,
       "imageHashes": []
     }
@@ -723,16 +723,16 @@
       "size": 4865
     },
     "questionSets": {
-      "file": "blobs/meta-questionSets-febbb772a009a713.bin",
-      "contentId": "febbb772a009a7137583bce8c8783aa5c451cc3cdc873638a87e148379a37813",
-      "sha256": "1ec572dc9580da8faf5a82ef313a2147ab16290cb4ce5224a663d8ac91a4d951",
+      "file": "blobs/meta-questionSets-454f30a5dbf22ac9.bin",
+      "contentId": "454f30a5dbf22ac951aec9174369a10c7126e2866376b6869867ea286025c55d",
+      "sha256": "52d2505b44dd6789315b1b3f5932a0bf3fafd1d23e75e7c2b2e5e8655273a76d",
       "size": 4575
     },
     "branding": {
-      "file": "blobs/meta-branding-e65ce620fc88b8f1.bin",
-      "contentId": "e65ce620fc88b8f1984d80100e83d75d0aba7abc2953af6aa192d78e9e853ca3",
-      "sha256": "a76742ffb13ad7ee99fca87d0af585a426dcfc85e627a6f0b5cdeb524f6d658e",
-      "size": 342
+      "file": "blobs/meta-branding-373fc16dda22eb3b.bin",
+      "contentId": "373fc16dda22eb3b957bc1f01b55c4035a80416d4ca0638315a5d2c6887bdd1d",
+      "sha256": "a8d2b4366f5e51948b1804842a3fc705fe4a44a3f214895de7951be2430adabf",
+      "size": 323
     },
     "access": {
       "file": "access.json",
