@@ -1,18 +1,18 @@
 {
-  "version": "v-20261105182236-c00315",
-  "builtAt": "2026-11-05T18:22:36.229Z",
-  "manifestSha256": "eb25d9f87ed753d3da5c05fb64f9c32a3293f85688a1ebfb1e61463799992b8a",
+  "version": "v-20261105194231-d91c89",
+  "builtAt": "2026-11-05T19:42:31.154Z",
+  "manifestSha256": "df6c13cef0628e4010e98411e411ddf26589c89eb4645f063cb22091e9b88999",
   "accessSha256": "dfd1ad0c9b92af9594c61bec5b7c0a9b26b9e58fc4f24b1e3150aac20f9f5b1e",
   "keyId": "adb82a371e2c4bf0",
-  "totalQuestions": 570,
+  "totalQuestions": 0,
   "minAppVersion": "1.0.0",
   "contacts": {
     "name": {
-      "value": "Dr Omer Mohammed Elsoghyer ",
-      "enabled": false
+      "value": "Dr Omer Mohammed El-Soghyer",
+      "enabled": true
     },
     "jobTitle": {
-      "value": "Pediatric Fellow Trainee - QGH",
+      "value": "Pediatric Fellow Trainee",
       "enabled": true
     },
     "whatsapp": {
@@ -20,7 +20,7 @@
       "enabled": true
     },
     "telegram": {
-      "value": "t.me/omermohd97",
+      "value": "https://t.me/omermohd97",
       "enabled": true
     },
     "facebook": {
@@ -32,15 +32,15 @@
       "enabled": false
     },
     "email": {
-      "value": "",
+      "value": "academic-support@medexam.org",
       "enabled": false
     },
     "phone": {
-      "value": "",
+      "value": "+44 20 7946 0192",
       "enabled": false
     },
     "website": {
-      "value": "",
+      "value": "https://medexam.org/support",
       "enabled": false
     }
   }
