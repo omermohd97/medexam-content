@@ -1,26 +1,26 @@
 {
-  "version": "v-20261106103531-dcc33d",
-  "builtAt": "2026-11-06T10:35:31.726Z",
-  "manifestSha256": "2d7ebb9394b2281e63bbe0f3f53b75118a21eb6f3845fc642e19e2b5c4e8f6d4",
+  "version": "v-20261106121518-ed73cf",
+  "builtAt": "2026-11-06T12:15:18.494Z",
+  "manifestSha256": "698580b7836b3818eecd2e9c45e4163ef56da16f4e84ce12010a6a42be585cc0",
   "accessSha256": "2ebf9ca0ae51b0ab5660955ca254048c7a69eeaad21819f620b069ac9e06af49",
   "keyId": "adb82a371e2c4bf0",
   "totalQuestions": 570,
   "minAppVersion": "1.0.0",
   "contacts": {
     "name": {
-      "value": "",
-      "enabled": false
+      "value": "DrOmerMohammed",
+      "enabled": true
     },
     "jobTitle": {
       "value": "",
       "enabled": false
     },
     "whatsapp": {
-      "value": "",
-      "enabled": false
+      "value": "00201026366307",
+      "enabled": true
     },
     "telegram": {
-      "value": "https://www.usmle.org",
+      "value": "t.me/omermohd97",
       "enabled": true
     },
     "facebook": {

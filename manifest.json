@@ -1,7 +1,7 @@
 {
   "format": "medexam-delta-manifest-v1",
-  "version": "v-20261106103531-dcc33d",
-  "builtAt": "2026-11-06T10:35:31.726Z",
+  "version": "v-20261106121518-ed73cf",
+  "builtAt": "2026-11-06T12:15:18.494Z",
   "keyId": "adb82a371e2c4bf0",
   "keyRotationEpoch": 0,
   "saltPrefix": "medexam-salt-ca3efd65f69567ea",
@@ -729,15 +729,15 @@
       "size": 4575
     },
     "branding": {
-      "file": "blobs/meta-branding-9aa087d0511ddf38.bin",
-      "contentId": "9aa087d0511ddf38be57e818def19bcd8b9471c937a8f3d8ba65a41099c084b8",
-      "sha256": "cf3fa9e1e14c402de195f6ce1286b869d0431d640a76f4cc21e255c537f81a26",
-      "size": 292
+      "file": "blobs/meta-branding-61f7fe3d2ecf44b8.bin",
+      "contentId": "61f7fe3d2ecf44b82ea6f69f845f96f2a3a95d7229feeaeae877c35b4864e5c1",
+      "sha256": "532aa4962c83d2e46c61fb26e4a142e37d8c8a3b695d732bdd6a00381830a39a",
+      "size": 326
     },
     "access": {
       "file": "access.json",
       "sha256": "2ebf9ca0ae51b0ab5660955ca254048c7a69eeaad21819f620b069ac9e06af49",
-      "size": 3747,
+      "size": 3751,
       "loginsCount": 12
     }
   }

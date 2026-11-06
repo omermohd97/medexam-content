@@ -1,23 +1,23 @@
 {
   "format": "medexam-public-config-v1",
-  "version": "v-20261106103531-dcc33d",
-  "updatedAt": "2026-11-06T10:35:31.726Z",
+  "version": "v-20261106121518-ed73cf",
+  "updatedAt": "2026-11-06T12:15:18.494Z",
   "appTitle": "MedExam Pro",
   "contacts": {
     "name": {
-      "value": "",
-      "enabled": false
+      "value": "DrOmerMohammed",
+      "enabled": true
     },
     "jobTitle": {
       "value": "",
       "enabled": false
     },
     "whatsapp": {
-      "value": "",
-      "enabled": false
+      "value": "00201026366307",
+      "enabled": true
     },
     "telegram": {
-      "value": "https://www.usmle.org",
+      "value": "t.me/omermohd97",
       "enabled": true
     },
     "facebook": {
