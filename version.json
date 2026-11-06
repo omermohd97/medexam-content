@@ -1,26 +1,26 @@
 {
-  "version": "v-20261105195040-3670d2",
-  "builtAt": "2026-11-05T19:50:40.719Z",
-  "manifestSha256": "52d074896905496b175f70ee5d3cadadafaf0c09fe7f4cbf91bc790b8258ba2a",
-  "accessSha256": "f928a63bc004df24fc30e82aca95f9f729486ba1c0eca18b0fea1c363536daa7",
+  "version": "v-20261106103531-dcc33d",
+  "builtAt": "2026-11-06T10:35:31.726Z",
+  "manifestSha256": "2d7ebb9394b2281e63bbe0f3f53b75118a21eb6f3845fc642e19e2b5c4e8f6d4",
+  "accessSha256": "2ebf9ca0ae51b0ab5660955ca254048c7a69eeaad21819f620b069ac9e06af49",
   "keyId": "adb82a371e2c4bf0",
   "totalQuestions": 570,
   "minAppVersion": "1.0.0",
   "contacts": {
     "name": {
-      "value": "Dr Omer Mohammed El-Soghyer",
-      "enabled": true
+      "value": "",
+      "enabled": false
     },
     "jobTitle": {
-      "value": "Pediatric Fellow Trainee",
-      "enabled": true
+      "value": "",
+      "enabled": false
     },
     "whatsapp": {
-      "value": "00201026366307",
-      "enabled": true
+      "value": "",
+      "enabled": false
     },
     "telegram": {
-      "value": "https://t.me/omermohd97",
+      "value": "https://www.usmle.org",
       "enabled": true
     },
     "facebook": {
@@ -32,15 +32,15 @@
       "enabled": false
     },
     "email": {
-      "value": "academic-support@medexam.org",
+      "value": "",
       "enabled": false
     },
     "phone": {
-      "value": "+44 20 7946 0192",
+      "value": "",
       "enabled": false
     },
     "website": {
-      "value": "https://medexam.org/support",
+      "value": "https://www.rcpch.ac.uk/resources/examinations",
       "enabled": false
     }
   }
