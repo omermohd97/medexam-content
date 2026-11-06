@@ -1,7 +1,7 @@
 {
   "format": "medexam-delta-manifest-v1",
-  "version": "v-20261106123809-54b7ef",
-  "builtAt": "2026-11-06T12:38:09.677Z",
+  "version": "v-20261106232313-0b3bdf",
+  "builtAt": "2026-11-06T23:23:13.910Z",
   "keyId": "adb82a371e2c4bf0",
   "keyRotationEpoch": 0,
   "saltPrefix": "medexam-salt-ca3efd65f69567ea",
@@ -824,8 +824,8 @@
     },
     "access": {
       "file": "access.json",
-      "sha256": "2ebf9ca0ae51b0ab5660955ca254048c7a69eeaad21819f620b069ac9e06af49",
-      "size": 3751,
+      "sha256": "5210a37e3cfc824ad77cf45b36d62b4fb1f8221a9f5237a81db6d7e89c0e1a1d",
+      "size": 3923,
       "loginsCount": 12
     }
   }
