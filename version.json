@@ -1,8 +1,8 @@
 {
-  "version": "v-20261106232516-032fc5",
-  "builtAt": "2026-11-06T23:25:16.303Z",
-  "manifestSha256": "6dd5fb8a05a2fa2a0754df942f646d026238501a5653308b19bf2f6c1b550264",
-  "accessSha256": "d54e060ac9461cb16114a64c165095015bd4691d411b4e009ef99a155460067d",
+  "version": "v-20261106235804-ac6344",
+  "builtAt": "2026-11-06T23:58:04.128Z",
+  "manifestSha256": "7e4b2c0b795cb20e303a6b012b9d5621bd00a2bd2f7d19720183ffca99f29b45",
+  "accessSha256": "e48e0d668600cf37571a7bb6c6699cc98e1ad69e13c2e5c32b80619982464311",
   "keyId": "adb82a371e2c4bf0",
   "totalQuestions": 570,
   "minAppVersion": "1.0.0",
