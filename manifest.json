@@ -1,7 +1,7 @@
 {
   "format": "medexam-delta-manifest-v1",
-  "version": "v-20261107203919-1a40dc",
-  "builtAt": "2026-11-07T20:39:19.027Z",
+  "version": "v-20261107204654-37d82b",
+  "builtAt": "2026-11-07T20:46:54.525Z",
   "keyId": "adb82a371e2c4bf0",
   "keyRotationEpoch": 0,
   "saltPrefix": "medexam-salt-ca3efd65f69567ea",
@@ -88,10 +88,10 @@
     },
     "8": {
       "bucket": 8,
-      "file": "blobs/bucket-08-a73065ad8a58e828.bin",
-      "contentId": "a73065ad8a58e828f2cee6f0ca083230f878795bab39820c70d0c5062a8f0ff1",
-      "sha256": "998f0c4430311764214715dc665ad32e1c1c7d40a00a182e803ef8d86f4901b7",
-      "size": 8351,
+      "file": "blobs/bucket-08-06283492cc5b1bdf.bin",
+      "contentId": "06283492cc5b1bdfda0fb94c3848994ef773d0ef2c95c0c0df8c7c43a31ccc42",
+      "sha256": "6951a9e9d6c6c88edb68d96c835e1c85e103ff3793df10c19f89721be02a219f",
+      "size": 8099,
       "count": 9,
       "imageHashes": [
         "1e8ced80711fd67a802d8d517e562a7c8d05ddb385a00eb8a7cfb826fa505921"
@@ -823,10 +823,10 @@
       "size": 5042
     },
     "questionSets": {
-      "file": "blobs/meta-questionSets-7a103b90f8056f3e.bin",
-      "contentId": "7a103b90f8056f3e2460ea362a0a28952e4c98b03417c71412dadc4cd6027f3f",
-      "sha256": "d5bdf87576d1da088f1aaadda9f6766d666118993a0cb9544bdf29e25af6127e",
-      "size": 4675
+      "file": "blobs/meta-questionSets-2fe8c7cec2249468.bin",
+      "contentId": "2fe8c7cec2249468210d41e4776d6f86e3992d69d1223251a6a913cd8031babc",
+      "sha256": "e48d4ecda6a623733d6c5f7bc6c2b90dace695daa98eb39df1d19095f4b5ad5a",
+      "size": 4674
     },
     "branding": {
       "file": "blobs/meta-branding-1cc5c1e7a5ba0aca.bin",
@@ -837,7 +837,7 @@
     "access": {
       "file": "access.json",
       "sha256": "4292efd93e209ef971a6372c8c1f1b06f9143b2acdb00bab3012ef05e3bf20aa",
-      "size": 12407,
+      "size": 12411,
       "loginsCount": 16
     }
   }
