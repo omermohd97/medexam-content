@@ -1,7 +1,7 @@
 {
   "format": "medexam-delta-manifest-v1",
-  "version": "v-20261108111004-05302b",
-  "builtAt": "2026-11-08T11:10:04.950Z",
+  "version": "v-20261108124209-93ff33",
+  "builtAt": "2026-11-08T12:42:09.997Z",
   "keyId": "adb82a371e2c4bf0",
   "keyRotationEpoch": 0,
   "saltPrefix": "medexam-salt-ca3efd65f69567ea",
@@ -294,10 +294,10 @@
     },
     "29": {
       "bucket": 29,
-      "file": "blobs/bucket-29-71c1d16ce3b38f23.bin",
-      "contentId": "71c1d16ce3b38f231ddf64f4a11536674aac8d7eb8fa26b1251cd339fcc78545",
-      "sha256": "7ee6a9acc21170679b864d6d9dc17e475a1991b9882ff0c2c16faa9499498d5a",
-      "size": 9110,
+      "file": "blobs/bucket-29-89eea92ea3689b1e.bin",
+      "contentId": "89eea92ea3689b1ebf1dcfd03007ca8317d13e51fc36074725ab9bff04eafbf7",
+      "sha256": "a7da20ef2b70d383c20b80c6bf82de17be6ca5e1a6947739b27f7bede233f624",
+      "size": 9231,
       "count": 9,
       "imageHashes": [
         "a0ec8f5e146a780a074d5e6b1ae8be7058edb7fdefa7773b0e9fcea122fbe812",
@@ -371,10 +371,10 @@
     },
     "37": {
       "bucket": 37,
-      "file": "blobs/bucket-37-7f176db3f2b53812.bin",
-      "contentId": "7f176db3f2b53812f1ccb36d6de0f42f6175f08178fc33b8d620ab5babefda0d",
-      "sha256": "75eeb4cf909a3449cad4484c5053e6e4d67f80fd311d02f7f6095836c34e6fc9",
-      "size": 5721,
+      "file": "blobs/bucket-37-c4e78d926426a32e.bin",
+      "contentId": "c4e78d926426a32ed5e888cfaac4df272f36f251124f53cee868dab46cd9f6d9",
+      "sha256": "d3a1c37a585cd2f3ae35518b478d812bfb801c83f4999c42dcb9e87600a5d7a8",
+      "size": 5840,
       "count": 7,
       "imageHashes": [
         "624af246e6526d887bd19cc654e8d39172cdb40081f46013c4b7e2e635925b05",
@@ -823,10 +823,10 @@
       "size": 5122
     },
     "questionSets": {
-      "file": "blobs/meta-questionSets-4854628b170ec567.bin",
-      "contentId": "4854628b170ec567d9a0fa256319752ec7f781d35a77110207b46b934d820c15",
-      "sha256": "1cf2386f7aded2405247993c0624cbd72b9080554823cebc6955c858d4d05c03",
-      "size": 4693
+      "file": "blobs/meta-questionSets-588ef8d85c62c11d.bin",
+      "contentId": "588ef8d85c62c11d9aa6c9908b258456d499d76d8fd7c056b779d6c8c465a26d",
+      "sha256": "2c5dc1bb6560ed1f59410caa16d6e76d20d612e01b753b763fea38f45f402053",
+      "size": 4694
     },
     "branding": {
       "file": "blobs/meta-branding-1ec603e13ff0b8f4.bin",
