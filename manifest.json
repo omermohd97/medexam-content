@@ -1,7 +1,7 @@
 {
   "format": "medexam-delta-manifest-v1",
-  "version": "v-20261107204654-37d82b",
-  "builtAt": "2026-11-07T20:46:54.525Z",
+  "version": "v-20261108101947-c76b16",
+  "builtAt": "2026-11-08T10:19:47.177Z",
   "keyId": "adb82a371e2c4bf0",
   "keyRotationEpoch": 0,
   "saltPrefix": "medexam-salt-ca3efd65f69567ea",
@@ -829,10 +829,10 @@
       "size": 4674
     },
     "branding": {
-      "file": "blobs/meta-branding-1cc5c1e7a5ba0aca.bin",
-      "contentId": "1cc5c1e7a5ba0acac6bcfcb5c464f60e758cac1f8cb377d6e26237deede1f90a",
-      "sha256": "705789ba0e00d938950ba27ad22e2d9af3154d61164550fb87007e36c5c924ad",
-      "size": 435
+      "file": "blobs/meta-branding-1ec603e13ff0b8f4.bin",
+      "contentId": "1ec603e13ff0b8f4beb2076752b4d2a0a458fe21017505de06fd884debe8fb40",
+      "sha256": "26639833b3d1df7ae1087e18f0c6f85487158d8edec6f1c84625780503dfe636",
+      "size": 439
     },
     "access": {
       "file": "access.json",

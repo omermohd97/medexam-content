@@ -1,16 +1,16 @@
 {
   "format": "medexam-public-config-v1",
-  "version": "v-20261107204654-37d82b",
-  "updatedAt": "2026-11-07T20:46:54.525Z",
+  "version": "v-20261108101947-c76b16",
+  "updatedAt": "2026-11-08T10:19:47.177Z",
   "appTitle": "MedExam Pro",
   "contacts": {
     "name": {
-      "value": "DrOmerMohammed",
+      "value": "Dr Omer Mohammed El-Soghyer",
       "enabled": true
     },
     "jobTitle": {
-      "value": "",
-      "enabled": false
+      "value": "Pediatric Fellow Trainee",
+      "enabled": true
     },
     "whatsapp": {
       "value": "00201026366307",

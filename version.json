@@ -1,19 +1,19 @@
 {
-  "version": "v-20261107204654-37d82b",
-  "builtAt": "2026-11-07T20:46:54.525Z",
-  "manifestSha256": "565eae226a9008e0176cdf110c44b5878f5c7cbbc944ee6e3b066775c331bf33",
+  "version": "v-20261108101947-c76b16",
+  "builtAt": "2026-11-08T10:19:47.177Z",
+  "manifestSha256": "c3d7e16b18fb02fcaa3acd7c64b33f14b68a24a873541501a2a7a97d143c981d",
   "accessSha256": "4292efd93e209ef971a6372c8c1f1b06f9143b2acdb00bab3012ef05e3bf20aa",
   "keyId": "adb82a371e2c4bf0",
   "totalQuestions": 575,
   "minAppVersion": "1.0.0",
   "contacts": {
     "name": {
-      "value": "DrOmerMohammed",
+      "value": "Dr Omer Mohammed El-Soghyer",
       "enabled": true
     },
     "jobTitle": {
-      "value": "",
-      "enabled": false
+      "value": "Pediatric Fellow Trainee",
+      "enabled": true
     },
     "whatsapp": {
       "value": "00201026366307",
@@ -40,7 +40,7 @@
       "enabled": false
     },
     "website": {
-      "value": "https://www.rcpch.ac.uk/resources/examinations",
+      "value": "",
       "enabled": false
     }
   }
