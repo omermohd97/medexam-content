@@ -1,19 +1,19 @@
 {
-  "version": "v-20261109174035-ac598c",
-  "builtAt": "2026-11-09T17:40:35.756Z",
-  "manifestSha256": "a4599843524893c64f9b22dc68b30474cc5ca582f6011db4b5dd1842b4f0ec1a",
+  "version": "v-20261109201822-5d8b00",
+  "builtAt": "2026-11-09T20:18:22.461Z",
+  "manifestSha256": "8d3de8f710ae316da085ab2a7231030fabb5e62cce2604fb58beb67c4c4ba08c",
   "accessSha256": "52ad9bca36050e34ebe6cbbb8ba4ae8376f6d16fed4edab7d13eeb5376619c10",
   "keyId": "adb82a371e2c4bf0",
-  "totalQuestions": 575,
+  "totalQuestions": 556,
   "minAppVersion": "1.0.0",
   "contacts": {
     "name": {
-      "value": "DrOmerMohammed",
+      "value": "Dr Omer Mohammed El-Soghyer",
       "enabled": true
     },
     "jobTitle": {
-      "value": "",
-      "enabled": false
+      "value": "Pediatric Fellow Trainee",
+      "enabled": true
     },
     "whatsapp": {
       "value": "00201026366307",
