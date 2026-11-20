@@ -1,7 +1,7 @@
 {
   "format": "medexam-public-config-v1",
-  "version": "v-20261111011435-867776",
-  "updatedAt": "2026-11-11T01:14:35.624Z",
+  "version": "v-20261120205432-cdbd65",
+  "updatedAt": "2026-11-20T20:54:32.860Z",
   "appTitle": "MedExam Pro",
   "contacts": {
     "name": {
@@ -40,5 +40,13 @@
       "value": "",
       "enabled": false
     }
+  },
+  "deviceSecurityPolicy": {
+    "root": "block",
+    "emulator": "block",
+    "adb": "warn",
+    "tampering": "block",
+    "hooking": "block",
+    "debugger": "block"
   }
 }

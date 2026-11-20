@@ -1,38 +1,41 @@
 {
   "format": "medexam-delta-manifest-v1",
-  "version": "v-20261111011435-867776",
-  "builtAt": "2026-11-11T01:14:35.624Z",
+  "version": "v-20261120205432-cdbd65",
+  "builtAt": "2026-11-20T20:54:32.860Z",
   "keyId": "adb82a371e2c4bf0",
   "keyRotationEpoch": 0,
   "saltPrefix": "medexam-salt-ca3efd65f69567ea",
   "minAppVersion": "1.0.0",
-  "totalQuestions": 556,
+  "totalQuestions": 592,
   "buckets": {
     "0": {
       "bucket": 0,
-      "file": "blobs/bucket-00-0508c2c6b2a16442.bin",
-      "contentId": "0508c2c6b2a16442c03ef0b14a33f31f7a1726bfe0c26bdffce5cc608e746f5d",
-      "sha256": "282d6e6774f93e3acc45d143a616faa4b77e56d74dfe292955e798dddc224eee",
-      "size": 4944,
-      "count": 6,
-      "imageHashes": []
+      "file": "blobs/bucket-00-2a00a9273f98920e.bin",
+      "contentId": "2a00a9273f98920e1d0a075f0f891cbe1d558ebf127f0146585772f92dfced00",
+      "sha256": "4db6cae80784cb3b6e24eae48078fba2e32205fb21f6be471781ba1f6173d346",
+      "size": 6356,
+      "count": 7,
+      "imageHashes": [
+        "4efe7ada21d9dce21f5d1c7ae82a7919fa079e64b3bc5974b6c0685e3e3e0ee2",
+        "86a574016a68a70e85f972fa0236c4eb4f0ae31e853a6546791c72f146ef6a46"
+      ]
     },
     "1": {
       "bucket": 1,
-      "file": "blobs/bucket-01-97c5704e9f8d850d.bin",
-      "contentId": "97c5704e9f8d850d3769b1e8453b87b337189c7d0d8f00dba93e2469e4879db4",
-      "sha256": "c3974f61bf9093b3f522b327dacf119f8e070de2f85361cd94589348fc026444",
-      "size": 6240,
-      "count": 7,
+      "file": "blobs/bucket-01-741f3e2c55b09924.bin",
+      "contentId": "741f3e2c55b0992433574e24e5bced04c8acec8b6f85891b15ed833efa1629d3",
+      "sha256": "f9bcec9b9bcb3aa72faee83ac3ea1a1f43c5b6cf1738e0892f11676adc81f394",
+      "size": 7070,
+      "count": 8,
       "imageHashes": []
     },
     "2": {
       "bucket": 2,
-      "file": "blobs/bucket-02-77f9c8b23f44b752.bin",
-      "contentId": "77f9c8b23f44b7528b3a8e1ae7d5670c62e90a947eebf9c24a4fe19171a8e21a",
-      "sha256": "fd56494528f2f9a12d9f9edf6b5b2aa8bdc9e55dad3a5131860aee6400735b98",
-      "size": 13334,
-      "count": 11,
+      "file": "blobs/bucket-02-372dd7a83e251c79.bin",
+      "contentId": "372dd7a83e251c79c079fe9543d85028de18f1cd490596bcc0c8b1b754c387e4",
+      "sha256": "aaf3cc4ce37dfc0766c74b0d57636631f23b125ceb397540d89ececa7cbfc837",
+      "size": 13916,
+      "count": 12,
       "imageHashes": [
         "1e8ced80711fd67a802d8d517e562a7c8d05ddb385a00eb8a7cfb826fa505921"
       ]
@@ -59,12 +62,14 @@
     },
     "5": {
       "bucket": 5,
-      "file": "blobs/bucket-05-991f0f4b004d4e18.bin",
-      "contentId": "991f0f4b004d4e18d64d4e33a20d4ee326a561f78320a3d61b44e0963413c18f",
-      "sha256": "213520ed1e6c0e41a6d26bb8c288911e1ebf707e7cf3cea156e472e3716d5eba",
-      "size": 6528,
-      "count": 8,
-      "imageHashes": []
+      "file": "blobs/bucket-05-eae2bc5cb7d6aff9.bin",
+      "contentId": "eae2bc5cb7d6aff98a2acd5444c00c571725fe93b5b3890af6f6d40eb2966fdc",
+      "sha256": "29382b04b99a9bf3d90c26959f70fe79482eba30c72d565fa76f8db0cabb10f8",
+      "size": 7604,
+      "count": 9,
+      "imageHashes": [
+        "a1341563bddc58791856e519c2d97bcd8a651208c08863a56f2f363faed00d8e"
+      ]
     },
     "6": {
       "bucket": 6,
@@ -88,13 +93,14 @@
     },
     "8": {
       "bucket": 8,
-      "file": "blobs/bucket-08-9f1f19f73acd2318.bin",
-      "contentId": "9f1f19f73acd23189e244a9d0edc7d41d5a83c73535904630265a6f30dd2eead",
-      "sha256": "08fbb820de59c647b72c49074536e88ea0fc43d50396e27ad03cc8278d73641d",
-      "size": 7255,
-      "count": 8,
+      "file": "blobs/bucket-08-6fcb654f4b6de49e.bin",
+      "contentId": "6fcb654f4b6de49e6b87bfd0853ada4fca86cd7078afd19d92df4932aafa4065",
+      "sha256": "ee4ffb62bf01672723e266bb860385f6e8f5ea29c89bcab0243572f509a20dbf",
+      "size": 8932,
+      "count": 10,
       "imageHashes": [
-        "1e8ced80711fd67a802d8d517e562a7c8d05ddb385a00eb8a7cfb826fa505921"
+        "1e8ced80711fd67a802d8d517e562a7c8d05ddb385a00eb8a7cfb826fa505921",
+        "ccb660df09e8e884d1b2318cd5e875ee238383dfb9f8813aa85b1179e2f5b0c4"
       ]
     },
     "9": {
@@ -117,23 +123,27 @@
     },
     "11": {
       "bucket": 11,
-      "file": "blobs/bucket-11-b7aacea2655f48f1.bin",
-      "contentId": "b7aacea2655f48f1690207779e8af25262fff42b25ee2ca4d5cc183692695809",
-      "sha256": "dc0b58a55243d4a2371785b288bdec74011b7c31bce5c128de53d4a23e149fd6",
-      "size": 6539,
-      "count": 10,
-      "imageHashes": []
+      "file": "blobs/bucket-11-cf01089b843b9563.bin",
+      "contentId": "cf01089b843b95639b3bd634dc2725972b70c77dbdbb8329f4d75476a2736e7e",
+      "sha256": "6bac75265c4b1eef9ad041e51409321bf88f17922a8338fb977f91d2d4adfc6b",
+      "size": 7841,
+      "count": 11,
+      "imageHashes": [
+        "4efe7ada21d9dce21f5d1c7ae82a7919fa079e64b3bc5974b6c0685e3e3e0ee2",
+        "86a574016a68a70e85f972fa0236c4eb4f0ae31e853a6546791c72f146ef6a46"
+      ]
     },
     "12": {
       "bucket": 12,
-      "file": "blobs/bucket-12-56a7b8ff8c3b7f7d.bin",
-      "contentId": "56a7b8ff8c3b7f7de44cd82da5e943af27969abd4155f9a5c3e6631cbdf13617",
-      "sha256": "47e9b28b7ff4ff796f8b2c39b8b0e201376b4d4cd85d8db2686916c2fbdff515",
-      "size": 13638,
-      "count": 14,
+      "file": "blobs/bucket-12-a5b9d1048c190bbf.bin",
+      "contentId": "a5b9d1048c190bbf0585c05d89e591d456e5450de6e9b8f254530fa5b1f3ea30",
+      "sha256": "a79b17e227035ccaf9ad515b5f84aab706dad4b65641a11440b3cb0ac191a765",
+      "size": 14640,
+      "count": 15,
       "imageHashes": [
         "0d9f0a0c20cd654e5ec95824b4e81acf8c8f17ddddff352c29796d187e1cdccf",
-        "61ac828b032b0adefcf595e9352692485bc4534728fd3313f01088aa227dcd5b"
+        "61ac828b032b0adefcf595e9352692485bc4534728fd3313f01088aa227dcd5b",
+        "95b1474eb2af3710efab7ecbac28f7e45ac531db46ca274ba67765fdc9563674"
       ]
     },
     "13": {
@@ -167,11 +177,11 @@
     },
     "16": {
       "bucket": 16,
-      "file": "blobs/bucket-16-1933e166a02e7f8f.bin",
-      "contentId": "1933e166a02e7f8f4676872f8b5ad2b31a91029c76c2660611ee9e9f9838ffbf",
-      "sha256": "a5ab8fba48b82eacb0b2e20157c6fa09161f9865803c31b6181de8fa87b29f34",
-      "size": 6186,
-      "count": 8,
+      "file": "blobs/bucket-16-34303df9c616d239.bin",
+      "contentId": "34303df9c616d239d908428861fca21856cd47d355b6a0af8c00f3c9dbe28246",
+      "sha256": "b170a85b5802df2fd01be8d5c5180d18b91d1ff3fe0ce29dbbfeef76ca817478",
+      "size": 8004,
+      "count": 10,
       "imageHashes": [
         "3f06cc90ba130c608391f2282e4dbd1a2dc994a0f6a995718aabd353dbd5817e",
         "b1408755146afa848091f759d2549a0d77b4d76ddfa6c02b79b1f6d1e2dae529",
@@ -180,12 +190,15 @@
     },
     "17": {
       "bucket": 17,
-      "file": "blobs/bucket-17-8338a5e396dcbf60.bin",
-      "contentId": "8338a5e396dcbf609c7c776157048743c34a7919a32b92343a6ae07d515a3b54",
-      "sha256": "d90de18d0e8f3834391b13c8cd7cb59e73d397da1274633a9aa35273d38d8011",
-      "size": 9587,
-      "count": 12,
-      "imageHashes": []
+      "file": "blobs/bucket-17-736e0023a4e7ca91.bin",
+      "contentId": "736e0023a4e7ca9155179f86a27e11ae165e30a79e75062c8117b28bbc798c03",
+      "sha256": "f6132a78be3ce56dbd11451e5ad94a7d902cc52c21730f7c35b003ad9098f960",
+      "size": 10821,
+      "count": 13,
+      "imageHashes": [
+        "4efe7ada21d9dce21f5d1c7ae82a7919fa079e64b3bc5974b6c0685e3e3e0ee2",
+        "86a574016a68a70e85f972fa0236c4eb4f0ae31e853a6546791c72f146ef6a46"
+      ]
     },
     "18": {
       "bucket": 18,
@@ -198,30 +211,32 @@
     },
     "19": {
       "bucket": 19,
-      "file": "blobs/bucket-19-319f0488c2c7d935.bin",
-      "contentId": "319f0488c2c7d935caabed27fdb65f173816ec12dc852205219f2d901e68dcc1",
-      "sha256": "a55845faea7051e39658e111b96bb4269fa93ea5854f5d6f42938eced6adceef",
-      "size": 3957,
-      "count": 5,
+      "file": "blobs/bucket-19-0a7e708d0177d4fd.bin",
+      "contentId": "0a7e708d0177d4fda476fee634aaad592f744b1d2d517c5e3a1c30893fafef85",
+      "sha256": "8eaa9851ef04e0525051705b5595d07386d1d8314c0c6fc40fce394e0e8433ad",
+      "size": 4783,
+      "count": 6,
       "imageHashes": []
     },
     "20": {
       "bucket": 20,
-      "file": "blobs/bucket-20-f9887b6e1d906624.bin",
-      "contentId": "f9887b6e1d906624c6b4162bff7871160fdcd32ad399e3e054391775893b1433",
-      "sha256": "b7e3b1f475861468db86e8be836a78dd6939ea9e1aec66a7cb2d918d44001431",
-      "size": 9155,
-      "count": 12,
+      "file": "blobs/bucket-20-4d98b458d0bf55a8.bin",
+      "contentId": "4d98b458d0bf55a8edd5509a4058f20f71e2b588f0a55e3c6be55ab291b17a4c",
+      "sha256": "a9a6d5b625849b6698a42c6fe1fb0b45bee198264a3133e92d03645ea170c477",
+      "size": 10139,
+      "count": 13,
       "imageHashes": []
     },
     "21": {
       "bucket": 21,
-      "file": "blobs/bucket-21-1c72962285e22076.bin",
-      "contentId": "1c72962285e220765956f50c6d3a22a5543c403a28356378d148243f6948d3e1",
-      "sha256": "a7c5364126039fdee671dde52f4675ba358e3650ca0de56b97b55efe205b8185",
-      "size": 6511,
-      "count": 7,
-      "imageHashes": []
+      "file": "blobs/bucket-21-291995acdd7cc412.bin",
+      "contentId": "291995acdd7cc41295b73fa472e3aa3de0729fbcba58bb40c04ccb381e118cfb",
+      "sha256": "7f3046c449830dd18584df41001fa778f6e4b400e6bf92e7bc2358689d0c5354",
+      "size": 7661,
+      "count": 8,
+      "imageHashes": [
+        "1c6c345e5977214c994d3b30b8cf2135826aad1b2b9a32fadcb90442fd4aaa39"
+      ]
     },
     "22": {
       "bucket": 22,
@@ -243,12 +258,14 @@
     },
     "24": {
       "bucket": 24,
-      "file": "blobs/bucket-24-d5bd3a92dd31898b.bin",
-      "contentId": "d5bd3a92dd31898bf3148a3b00f0cb0635897513d827a3a24b6777c50dd18329",
-      "sha256": "a9cef58ac6a19ce38eec3f7b80dc44523b3d751d7dde6b3bcced5b0a1d1279d7",
-      "size": 5351,
-      "count": 5,
-      "imageHashes": []
+      "file": "blobs/bucket-24-018e464c52c42d4a.bin",
+      "contentId": "018e464c52c42d4aa825ab297dd3fbdd131ca5206ed0898a9fadf27a1b58778e",
+      "sha256": "be5f67975a245bab75aa76a374531dad2a8e8b47585e2d5014d8f1336c26bb39",
+      "size": 6628,
+      "count": 6,
+      "imageHashes": [
+        "ccb660df09e8e884d1b2318cd5e875ee238383dfb9f8813aa85b1179e2f5b0c4"
+      ]
     },
     "25": {
       "bucket": 25,
@@ -264,11 +281,11 @@
     },
     "26": {
       "bucket": 26,
-      "file": "blobs/bucket-26-2851cb1d1ca40ba5.bin",
-      "contentId": "2851cb1d1ca40ba5cceca40ee7d802e4901d8858c885a850487e5a1150fc359c",
-      "sha256": "4ab429eaee9d1b95652234a6c81dac682c40257ec1af8b6e62c772ad89c616b5",
-      "size": 3141,
-      "count": 3,
+      "file": "blobs/bucket-26-ed454938e342da99.bin",
+      "contentId": "ed454938e342da994e28ff7c8e5ce3addf5b234c1e5136d9ab9b62adb687ad3d",
+      "sha256": "d026ca9cd683942b729f602669df19b169ef3cf48a70de8ada93618334baf7fc",
+      "size": 4031,
+      "count": 4,
       "imageHashes": [
         "8e933b0db1f2f9772c8933ae13db52a9c0aef661ac0ed14cf7da414c041cb784"
       ]
@@ -295,22 +312,22 @@
     },
     "29": {
       "bucket": 29,
-      "file": "blobs/bucket-29-a2a223e41f2aa32a.bin",
-      "contentId": "a2a223e41f2aa32a2f0ae570e5208446477d40b231ab0ea1c836d6aeaa7bd806",
-      "sha256": "502ef4af5bbdbfc864752bc3b253e3587e681eb433f7b55adc2555dd3975a6b0",
-      "size": 8396,
-      "count": 8,
+      "file": "blobs/bucket-29-7359b000f8e1797b.bin",
+      "contentId": "7359b000f8e1797bd9ad0e19a22c69028e91c354fa4c3777cbd19ff884df2331",
+      "sha256": "f49c8cbb87c353b4036590c0943ac8e4842d14509e4c1f21b70c3ff7a9e72e4e",
+      "size": 9008,
+      "count": 9,
       "imageHashes": [
         "ae9c955a063b790944ce9e2e6998e27cd3a3d6cfe8c0dc508ca3507076584b7b"
       ]
     },
     "30": {
       "bucket": 30,
-      "file": "blobs/bucket-30-a2bca8edb58b9c01.bin",
-      "contentId": "a2bca8edb58b9c01063e3c0f789f589a943abef40b24a1b78fa705e1f95b16d1",
-      "sha256": "4c3a8707d612630e08e25351ea7ae70b5f5d8d125c95c7a2c8261fea4b3935a1",
-      "size": 3290,
-      "count": 4,
+      "file": "blobs/bucket-30-674caf40ba1ce227.bin",
+      "contentId": "674caf40ba1ce227161e463cc14e00ed488d442c03b9844129cab5e5d8c06fff",
+      "sha256": "cc614634763b171ecb7c8bbc7004b665083b87f1331cfa12e89d685c0daab803",
+      "size": 5039,
+      "count": 6,
       "imageHashes": []
     },
     "31": {
@@ -324,11 +341,11 @@
     },
     "32": {
       "bucket": 32,
-      "file": "blobs/bucket-32-56a1461c2eb7b30b.bin",
-      "contentId": "56a1461c2eb7b30b96184a414f48fac7641ea1ab6dd27fdaf5ef711c0b1128cb",
-      "sha256": "170d968c9803313904e6b67077b0b0682145add7f5e98350ec0d00a2ec981b00",
-      "size": 5398,
-      "count": 7,
+      "file": "blobs/bucket-32-a8c5f07f7726d6de.bin",
+      "contentId": "a8c5f07f7726d6de38211699f05f2ce7dc3da3febed551c69f9d65534fafb19c",
+      "sha256": "c98a273ad651fbc598807a6ff2b95782e84b0b1065c12a1bb0720d560831735e",
+      "size": 6201,
+      "count": 8,
       "imageHashes": [
         "5edd56d5d5b05d38aa404a619cfcba333f9552ffd844ad81ed3b7edbaa2d164b",
         "80aaea5fd7b53e4782e4776da9b8cdfc07596f368aa754826e571717bbcb8ade"
@@ -345,12 +362,14 @@
     },
     "34": {
       "bucket": 34,
-      "file": "blobs/bucket-34-5fdc7f11c43937fd.bin",
-      "contentId": "5fdc7f11c43937fdde575a9e69bc58162d899c3485ed713ab0c00a74ff0673fe",
-      "sha256": "a423ba85a64b56fe455ae82407c6b877a3967240450704e387213c3448d9ddfa",
-      "size": 6013,
-      "count": 7,
-      "imageHashes": []
+      "file": "blobs/bucket-34-7460b55139a174a3.bin",
+      "contentId": "7460b55139a174a35393639f7e8782dab04791a33e278bc2685a5ff8c7fe3c19",
+      "sha256": "9964df82f912dbbc1959d99bd5dedcff7ba5cdf318620d179660533b34dbc483",
+      "size": 7231,
+      "count": 8,
+      "imageHashes": [
+        "1c6c345e5977214c994d3b30b8cf2135826aad1b2b9a32fadcb90442fd4aaa39"
+      ]
     },
     "35": {
       "bucket": 35,
@@ -384,35 +403,37 @@
     },
     "38": {
       "bucket": 38,
-      "file": "blobs/bucket-38-955db97b374fef51.bin",
-      "contentId": "955db97b374fef518c682132dde7c135bf84984d965109332381b04fe5bc394e",
-      "sha256": "a38962ba32044d87705c6496ca032040a57fb7c2225fc64f8214ad79f8deee27",
-      "size": 9300,
-      "count": 13,
+      "file": "blobs/bucket-38-64dae19ad619779e.bin",
+      "contentId": "64dae19ad619779e5fbc5320084eb601294d9fe0e118de1f2bfd87339b9981b3",
+      "sha256": "1a39a8e9ba61a07e08757a8dc069f0a1456ae3bd6155c7c40686c8b93df3db15",
+      "size": 10101,
+      "count": 14,
       "imageHashes": [
+        "21df0d1d31b51bd798813c45a5c34a43e6d76b3eb90ff2be8b7a151c74b3ef7c",
         "877595568b1426ea48d8951d8b0996d5e5fedaa569103b87f77cdfe8b4bf2637",
         "c597636409f5bd986d621a0a2161abbf9777012695d39314ed0b2ec4baace92e"
       ]
     },
     "39": {
       "bucket": 39,
-      "file": "blobs/bucket-39-19602fefb91fa7c6.bin",
-      "contentId": "19602fefb91fa7c6de7b3c1ec874def63c4f5170f222e1544d00380484164312",
-      "sha256": "c41ed0231fbe6fa25ee050f081086a17548e4d549c3346096e27c458bc1d5cb3",
-      "size": 10327,
-      "count": 11,
+      "file": "blobs/bucket-39-2b8816dadd3453c5.bin",
+      "contentId": "2b8816dadd3453c5384bd11fa504edf822b4eb10768f42fb10e50e681bb9fd64",
+      "sha256": "6fa6bbaf6fe5662097bc7d9aa58efe97039f703390102c9e7be03362efd0d743",
+      "size": 11187,
+      "count": 12,
       "imageHashes": [
+        "21df0d1d31b51bd798813c45a5c34a43e6d76b3eb90ff2be8b7a151c74b3ef7c",
         "877595568b1426ea48d8951d8b0996d5e5fedaa569103b87f77cdfe8b4bf2637",
         "c597636409f5bd986d621a0a2161abbf9777012695d39314ed0b2ec4baace92e"
       ]
     },
     "40": {
       "bucket": 40,
-      "file": "blobs/bucket-40-9356bf0ce079a3ce.bin",
-      "contentId": "9356bf0ce079a3ce5350906ac16492b1ee5ea97b77f3d358d7f06aa792c22d52",
-      "sha256": "256e2d53842aa684db8bc74eede573b2271d2660eaea622b060ec0b591cab2b8",
-      "size": 7728,
-      "count": 11,
+      "file": "blobs/bucket-40-ef86f029ad99f0bd.bin",
+      "contentId": "ef86f029ad99f0bdead7fdba453027f6c7f62a323d043461aa477c9ad566fc32",
+      "sha256": "e9429070b2d9888412e6074ef02e34844a81e09161780615b7a350e2222ed61a",
+      "size": 8412,
+      "count": 12,
       "imageHashes": [
         "ad0bca4a42170ee83a109bb557155ffebe783318682c14a1c769d7f40fac1005"
       ]
@@ -480,11 +501,11 @@
     },
     "47": {
       "bucket": 47,
-      "file": "blobs/bucket-47-11babf0ba72d5f07.bin",
-      "contentId": "11babf0ba72d5f07ce9fbdd9670ef5ef8bc0502fcc1169977f1c687dbf590dd4",
-      "sha256": "e1c87fe8aff460d1ef4eab37e7794bf42672bb83d2aaa4a7379a693f14c038d6",
-      "size": 10947,
-      "count": 13,
+      "file": "blobs/bucket-47-2f1a9683389a45f9.bin",
+      "contentId": "2f1a9683389a45f993d3dccb41a18a6ec8b445440719d46493d41196883ae7c8",
+      "sha256": "d1e16fb2250a8c5306396f60fca46077e6ef820680f6c46593e1c6c26dd39253",
+      "size": 11577,
+      "count": 14,
       "imageHashes": [
         "1e02ccda15304c5873119fba8f69509f854026198085b25411d7164d92b47dab",
         "8e933b0db1f2f9772c8933ae13db52a9c0aef661ac0ed14cf7da414c041cb784"
@@ -492,11 +513,11 @@
     },
     "48": {
       "bucket": 48,
-      "file": "blobs/bucket-48-fa17a84dacc37910.bin",
-      "contentId": "fa17a84dacc379100ebcd96de391688aacc549540f98f2ab9d49822fc8c60516",
-      "sha256": "9de25d368c82ef555f83a41f492627d1d3f584c1a8b5e733d3e56028e1380526",
-      "size": 13124,
-      "count": 11,
+      "file": "blobs/bucket-48-989bc6ef1022befd.bin",
+      "contentId": "989bc6ef1022befd7630c599a29fabc6779ffebece9a1db8c93aa293a7d75142",
+      "sha256": "becce89fe12d82b26b67050f69b47bb2887555f6ec8fb82f9a658ef223c7ff8b",
+      "size": 14039,
+      "count": 12,
       "imageHashes": []
     },
     "49": {
@@ -536,19 +557,19 @@
     },
     "52": {
       "bucket": 52,
-      "file": "blobs/bucket-52-4779ba44d2da762a.bin",
-      "contentId": "4779ba44d2da762a2597b965a85dbe2e1c6a076d2fe1d69614d5398c036e89dd",
-      "sha256": "67c7f05f62f340dea91be7447af78136ee59a4251e8839c5aaa7e68ec59e235e",
-      "size": 10911,
-      "count": 9,
+      "file": "blobs/bucket-52-76a8d40f035574ee.bin",
+      "contentId": "76a8d40f035574eeef6fb50b2d9b30751f2074dafc12ef475ab7af9640b1e10f",
+      "sha256": "a6002584a32aca93a27b599e731159f420aac28b66f037d7c80fe65da076ccb7",
+      "size": 11836,
+      "count": 10,
       "imageHashes": []
     },
     "53": {
       "bucket": 53,
-      "file": "blobs/bucket-53-c728fcb7c4ce60db.bin",
-      "contentId": "c728fcb7c4ce60db002d10f7f5dcf0fae6a8e315f8bddf68c5ee1b95aee50a86",
-      "sha256": "8fa7da01618590ed9c2e33ce64deaa57e23e79cd89d2bbed28886a4e98f750f5",
-      "size": 13549,
+      "file": "blobs/bucket-53-cd74133025c549dd.bin",
+      "contentId": "cd74133025c549dd7e1088c084b32877a88a1743dd39645a1f6cc3822e2d2683",
+      "sha256": "6ffb7e785803051df64655f526d62f0b699037f6ca02244a66dd772a2e980bd4",
+      "size": 13436,
       "count": 16,
       "imageHashes": [
         "1e02ccda15304c5873119fba8f69509f854026198085b25411d7164d92b47dab",
@@ -557,20 +578,22 @@
     },
     "54": {
       "bucket": 54,
-      "file": "blobs/bucket-54-c74845c40d8ee76e.bin",
-      "contentId": "c74845c40d8ee76e4fac2514de7ab62157a989f4b7540eb7e1c4be50ddcccb9d",
-      "sha256": "f0bf535e745ee74bb0e30858f47a895c726a47f901733f077b9d63a125b828c8",
-      "size": 10834,
-      "count": 9,
-      "imageHashes": []
+      "file": "blobs/bucket-54-cb95d573d57adf10.bin",
+      "contentId": "cb95d573d57adf10112b39f5f8491c3bc933e1ab5bc33867768e164ca6b32bc4",
+      "sha256": "b4d94d0f01622e3d9f223bb25567316174a694d1c2f26989125574f0190127ed",
+      "size": 12522,
+      "count": 11,
+      "imageHashes": [
+        "29d2b002bae34123b9333d52ac71cd970227893723d0e37e4b39e6ca165aa7ff"
+      ]
     },
     "55": {
       "bucket": 55,
-      "file": "blobs/bucket-55-b367e0c777c51834.bin",
-      "contentId": "b367e0c777c518346b79bb8bbf53ec118427b180213adebca6d9a09b8b596d5b",
-      "sha256": "89f85ea554161d7b84be764bfeab19ead01c619775554e2efc3a11ce7c65b0d0",
-      "size": 14244,
-      "count": 15,
+      "file": "blobs/bucket-55-c6f87393b3cf2424.bin",
+      "contentId": "c6f87393b3cf24243c89d00441dc15a65abe619fa10569896078beda6635da50",
+      "sha256": "2c032a8a615b93220c5733eec57795d64b6c19e24b809eb2b7f684423fbc0c54",
+      "size": 14926,
+      "count": 16,
       "imageHashes": [
         "731ecb867cb003db01a09660342d0478548c3cfc7c86567b3a48001da2150fd9",
         "b0b982227c58b2c22959a96b6dc24d838d49d8812bf1fe3f5f9e82e50461762e"
@@ -596,41 +619,46 @@
     },
     "58": {
       "bucket": 58,
-      "file": "blobs/bucket-58-a85429a7298f7753.bin",
-      "contentId": "a85429a7298f7753367dbed8f4eb1407566068a054c0cbd4f5b9ab1aa4fc230f",
-      "sha256": "8456715bb13926ec33740450ccdedd3f12119793d0f3325884fc75d3412b7743",
-      "size": 6378,
-      "count": 9,
-      "imageHashes": []
+      "file": "blobs/bucket-58-c67e8ce26d944a70.bin",
+      "contentId": "c67e8ce26d944a70507e5b6064a536034a9235a385e371a3dcdaa71201f7c97a",
+      "sha256": "16d2b97a81a9dfde7a00d3165eeee2ae718fc0df1ed5b9ea3ebafa4466868f8c",
+      "size": 7611,
+      "count": 10,
+      "imageHashes": [
+        "ccb660df09e8e884d1b2318cd5e875ee238383dfb9f8813aa85b1179e2f5b0c4"
+      ]
     },
     "59": {
       "bucket": 59,
-      "file": "blobs/bucket-59-733d3eda8fc34248.bin",
-      "contentId": "733d3eda8fc3424811d4ab49abab6effe61c0935cbbf2b59dfa297f674994818",
-      "sha256": "410cfbba9a025636f6fad4b98679c5309b6e1badad82964821216406a9d1e16a",
-      "size": 5207,
-      "count": 6,
+      "file": "blobs/bucket-59-ac8e7600e6b64660.bin",
+      "contentId": "ac8e7600e6b6466040ae72644e93b6e0a4e0365710e785457da9dc0daab08054",
+      "sha256": "8ce2e6b9899a4121bbec810a7596d10bfdd52e8abce16f3ada1a8bd34322ab80",
+      "size": 6006,
+      "count": 7,
       "imageHashes": []
     },
     "60": {
       "bucket": 60,
-      "file": "blobs/bucket-60-3714b3fb2c8eb083.bin",
-      "contentId": "3714b3fb2c8eb083df1ab90a558c97ffb3a19b712cb4b5b5364c5ff8b83310a3",
-      "sha256": "88b07875a675eac6279859d53cd0f730a8a7fdf00ec69ac2d5f5a85a165656cb",
-      "size": 7155,
-      "count": 8,
+      "file": "blobs/bucket-60-18f5e4357577046b.bin",
+      "contentId": "18f5e4357577046b2008bdf082b0199aa44e93cddae210b2f77711be56c01cd1",
+      "sha256": "82efd9e521bfc3a240703f98c8840c4f625de06956cfea4d9e83b7a4b4a2e2dc",
+      "size": 8163,
+      "count": 9,
       "imageHashes": [
-        "8e933b0db1f2f9772c8933ae13db52a9c0aef661ac0ed14cf7da414c041cb784"
+        "8e933b0db1f2f9772c8933ae13db52a9c0aef661ac0ed14cf7da414c041cb784",
+        "95b1474eb2af3710efab7ecbac28f7e45ac531db46ca274ba67765fdc9563674"
       ]
     },
     "61": {
       "bucket": 61,
-      "file": "blobs/bucket-61-e887d107ebffceac.bin",
-      "contentId": "e887d107ebffceac9e6dc035d3c7b3149f4a311ba62d5d763882067bc841de2e",
-      "sha256": "dbcfdf9a613ee124b4bc920503437eabc95dfe6bfd8060552898b1fb89a4fbab",
-      "size": 11010,
-      "count": 12,
-      "imageHashes": []
+      "file": "blobs/bucket-61-dbcf5b9f30f9039c.bin",
+      "contentId": "dbcf5b9f30f9039c6070527e949f229822e9c9213e43cdf3819ec781cbe8168b",
+      "sha256": "3067ae2a84c326a8ffd001338548b4d3ea3c8bf5527eecaef194f1ab06d4a8e0",
+      "size": 13152,
+      "count": 14,
+      "imageHashes": [
+        "29d2b002bae34123b9333d52ac71cd970227893723d0e37e4b39e6ca165aa7ff"
+      ]
     },
     "62": {
       "bucket": 62,
@@ -645,11 +673,11 @@
     },
     "63": {
       "bucket": 63,
-      "file": "blobs/bucket-63-761e591b650ded20.bin",
-      "contentId": "761e591b650ded204485b0dcd12078ef907ffc0aced973bd613b58629320ad1e",
-      "sha256": "1e25b24b091ba54df16d3252f30b2c64934fe9e90f5014e4897ad1664cc008b2",
-      "size": 7857,
-      "count": 5,
+      "file": "blobs/bucket-63-eb5e3fe594f09258.bin",
+      "contentId": "eb5e3fe594f092582d6b55e3498196ee1caf0e19157d94eb44905a7b96091c22",
+      "sha256": "4c943f5a263dd98f71cb5cad07bf49dff4c898bc22f3c7f9c9833f3a4a9997a2",
+      "size": 9047,
+      "count": 6,
       "imageHashes": []
     }
   },
@@ -686,6 +714,14 @@
       "plainSize": 19158,
       "mimeType": "image/webp"
     },
+    "1c6c345e5977214c994d3b30b8cf2135826aad1b2b9a32fadcb90442fd4aaa39": {
+      "hash": "1c6c345e5977214c994d3b30b8cf2135826aad1b2b9a32fadcb90442fd4aaa39",
+      "file": "blobs/img-1c6c345e5977214c.bin",
+      "sha256": "5bffe32740e8d6a8ca36690c5db266e3d4931e9d475af86e4d09d695dd2bfb62",
+      "size": 48810,
+      "plainSize": 48778,
+      "mimeType": "image/png"
+    },
     "1e02ccda15304c5873119fba8f69509f854026198085b25411d7164d92b47dab": {
       "hash": "1e02ccda15304c5873119fba8f69509f854026198085b25411d7164d92b47dab",
       "file": "blobs/img-1e02ccda15304c58.bin",
@@ -702,6 +738,14 @@
       "plainSize": 64758,
       "mimeType": "image/webp"
     },
+    "21df0d1d31b51bd798813c45a5c34a43e6d76b3eb90ff2be8b7a151c74b3ef7c": {
+      "hash": "21df0d1d31b51bd798813c45a5c34a43e6d76b3eb90ff2be8b7a151c74b3ef7c",
+      "file": "blobs/img-21df0d1d31b51bd7.bin",
+      "sha256": "629e64993ae2ddaefd972638619ff707b146d105a88fab16b34778c3323464cd",
+      "size": 27048,
+      "plainSize": 27016,
+      "mimeType": "image/png"
+    },
     "2420787a4aed2b320f1714043a2161df03121a9814144d4d4c27ae57b0b5e462": {
       "hash": "2420787a4aed2b320f1714043a2161df03121a9814144d4d4c27ae57b0b5e462",
       "file": "blobs/img-2420787a4aed2b32.bin",
@@ -709,6 +753,14 @@
       "size": 16290,
       "plainSize": 16258,
       "mimeType": "image/webp"
+    },
+    "29d2b002bae34123b9333d52ac71cd970227893723d0e37e4b39e6ca165aa7ff": {
+      "hash": "29d2b002bae34123b9333d52ac71cd970227893723d0e37e4b39e6ca165aa7ff",
+      "file": "blobs/img-29d2b002bae34123.bin",
+      "sha256": "29bced8c9ef5ac37dbaf89dfad71c1aad64f027187b3d0fa47cd671475527f3a",
+      "size": 58904,
+      "plainSize": 58872,
+      "mimeType": "image/png"
     },
     "3f06cc90ba130c608391f2282e4dbd1a2dc994a0f6a995718aabd353dbd5817e": {
       "hash": "3f06cc90ba130c608391f2282e4dbd1a2dc994a0f6a995718aabd353dbd5817e",
@@ -725,6 +777,14 @@
       "size": 37412,
       "plainSize": 37380,
       "mimeType": "image/webp"
+    },
+    "4efe7ada21d9dce21f5d1c7ae82a7919fa079e64b3bc5974b6c0685e3e3e0ee2": {
+      "hash": "4efe7ada21d9dce21f5d1c7ae82a7919fa079e64b3bc5974b6c0685e3e3e0ee2",
+      "file": "blobs/img-4efe7ada21d9dce2.bin",
+      "sha256": "91bfed791ad97ec3a5cc53d3320c7f60a45ff350b35a3b5e182cb394de5a1566",
+      "size": 40138,
+      "plainSize": 40106,
+      "mimeType": "image/png"
     },
     "5284291a6c9ed346e95eaf44077a97f805aa7c928293076c366601934f164743": {
       "hash": "5284291a6c9ed346e95eaf44077a97f805aa7c928293076c366601934f164743",
@@ -806,6 +866,14 @@
       "plainSize": 20974,
       "mimeType": "image/webp"
     },
+    "86a574016a68a70e85f972fa0236c4eb4f0ae31e853a6546791c72f146ef6a46": {
+      "hash": "86a574016a68a70e85f972fa0236c4eb4f0ae31e853a6546791c72f146ef6a46",
+      "file": "blobs/img-86a574016a68a70e.bin",
+      "sha256": "880321733765862dc6682b25c606bc747e6f45dc76e273fd3d5baacd13058bcc",
+      "size": 12799,
+      "plainSize": 12767,
+      "mimeType": "image/png"
+    },
     "877595568b1426ea48d8951d8b0996d5e5fedaa569103b87f77cdfe8b4bf2637": {
       "hash": "877595568b1426ea48d8951d8b0996d5e5fedaa569103b87f77cdfe8b4bf2637",
       "file": "blobs/img-877595568b1426ea.bin",
@@ -829,6 +897,22 @@
       "size": 14980,
       "plainSize": 14948,
       "mimeType": "image/webp"
+    },
+    "95b1474eb2af3710efab7ecbac28f7e45ac531db46ca274ba67765fdc9563674": {
+      "hash": "95b1474eb2af3710efab7ecbac28f7e45ac531db46ca274ba67765fdc9563674",
+      "file": "blobs/img-95b1474eb2af3710.bin",
+      "sha256": "6b71bff19e403c2e25921f2484dbd3b3744a8f7a38410b4b0f6d693b3248c86b",
+      "size": 67945,
+      "plainSize": 67913,
+      "mimeType": "image/png"
+    },
+    "a1341563bddc58791856e519c2d97bcd8a651208c08863a56f2f363faed00d8e": {
+      "hash": "a1341563bddc58791856e519c2d97bcd8a651208c08863a56f2f363faed00d8e",
+      "file": "blobs/img-a1341563bddc5879.bin",
+      "sha256": "a35b0c03f83063ff215b9bb9785b4c41cc25b063de80ef621aec01e1d48db28c",
+      "size": 19079,
+      "plainSize": 19047,
+      "mimeType": "image/png"
     },
     "abbbf6806f4ea0be999c78e6592610d59d64d35e4bce309d6dd0ed0be3e8262f": {
       "hash": "abbbf6806f4ea0be999c78e6592610d59d64d35e4bce309d6dd0ed0be3e8262f",
@@ -886,6 +970,14 @@
       "plainSize": 14938,
       "mimeType": "image/webp"
     },
+    "ccb660df09e8e884d1b2318cd5e875ee238383dfb9f8813aa85b1179e2f5b0c4": {
+      "hash": "ccb660df09e8e884d1b2318cd5e875ee238383dfb9f8813aa85b1179e2f5b0c4",
+      "file": "blobs/img-ccb660df09e8e884.bin",
+      "sha256": "965eccc3ef6738cec1e2f58ed7ab3cfd7ba2958263b7306302f4bf41a9a08600",
+      "size": 13041,
+      "plainSize": 13009,
+      "mimeType": "image/png"
+    },
     "e14795e9861a50b68ef69c6c3fecc939a60d63515d674681d4c22911b40ce78b": {
       "hash": "e14795e9861a50b68ef69c6c3fecc939a60d63515d674681d4c22911b40ce78b",
       "file": "blobs/img-e14795e9861a50b6.bin",
@@ -905,27 +997,27 @@
   },
   "files": {
     "books": {
-      "file": "blobs/meta-books-282a73604c0cb37c.bin",
-      "contentId": "282a73604c0cb37cb275e567086cf93cd732e6e76658cb4ee2a5a67c2642000a",
-      "sha256": "638eeb81d3b24e0655dd4238bc765f0deb250e3dd4d5b12dc8327d6386b9a510",
-      "size": 5142
+      "file": "blobs/meta-books-3aa168820b150ed6.bin",
+      "contentId": "3aa168820b150ed69a84bb2ed64741fe50d9c33e1a3c7b7d47efae3b9d422fd6",
+      "sha256": "409bfbd2a852233ccdd095cf7e3627c1bd6b61bfc98669f0d85effef734f73ef",
+      "size": 5715
     },
     "questionSets": {
-      "file": "blobs/meta-questionSets-0b2a83e34d70d3d9.bin",
-      "contentId": "0b2a83e34d70d3d9f1c13d7a64255366395b8fe7fc92ca23556df9d66cfd94ff",
-      "sha256": "2371aadd25cdc253cd98fb31e150ff7882c024c87c448be361c37fc80760de36",
-      "size": 4488
+      "file": "blobs/meta-questionSets-731ac1022c023358.bin",
+      "contentId": "731ac1022c0233582d578cf23d404b4a8eba58fe0dceec1ff9a12d4877caf4f2",
+      "sha256": "c57e4e95bf4a5db01dd49c3faeacbad99a6d4c4181b54bdb05fb08e01f37155d",
+      "size": 4736
     },
     "branding": {
-      "file": "blobs/meta-branding-808933adee7cc01e.bin",
-      "contentId": "808933adee7cc01e99c892104074ca54045b250f8e533ed936916ab3fe134cdf",
-      "sha256": "4033f6cf990e16d6b5eec9354c533cca628805b4c3ddc8238e19ab9e21dee13e",
-      "size": 472
+      "file": "blobs/meta-branding-c985423edfc32f4b.bin",
+      "contentId": "c985423edfc32f4b000fa8af4a98576f1e018265a5b6bf359a98edc0dc8d00e0",
+      "sha256": "2f4fade65257412e740e5d685259a232b9d3734c2f23a85da869f9e0feaaf167",
+      "size": 535
     },
     "access": {
       "file": "access.json",
-      "sha256": "52ad9bca36050e34ebe6cbbb8ba4ae8376f6d16fed4edab7d13eeb5376619c10",
-      "size": 14971,
+      "sha256": "9af006539233a813f4e8e857226c3dd79b8ea3217f2e0c8ac7c742aff4a566b1",
+      "size": 14967,
       "loginsCount": 16
     }
   }
