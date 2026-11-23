@@ -1,7 +1,7 @@
 {
   "format": "medexam-public-config-v1",
-  "version": "v-20261122183956-e2de40",
-  "updatedAt": "2026-11-22T18:39:56.297Z",
+  "version": "v-20261123093913-9a4e7c",
+  "updatedAt": "2026-11-23T09:39:13.154Z",
   "appTitle": "MedExam Pro",
   "contacts": {
     "name": {
@@ -48,5 +48,6 @@
     "tampering": "block",
     "hooking": "block",
     "debugger": "block"
-  }
+  },
+  "handwritingToTextEnabled": false
 }
